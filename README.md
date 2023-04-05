@@ -60,6 +60,5 @@ Opening to the right path where you wnat to Install the RealtimeDatabaseFaceDete
 
 PyCharm is the suitable one for the RealtimeDatabaseFaceDetectionAttendanceSystem
 
-#### How to get the Database API key of Firebase ?
 
 
