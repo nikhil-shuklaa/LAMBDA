@@ -1,8 +1,5 @@
 # LAMBDA
-LAMBDA is a Live Database Attandance system using Technologies like, Face Detection, RFID, and Finger Print. 
-
-LAMBDA is a real-time attendance system that uses different technology to track attendance in a database. 
-
+LAMBDA is a real-time attendance system that uses Technologies like, Face Detection, RFID, and Finger Print to track attendance in a database.. 
 
 
 ## Author
