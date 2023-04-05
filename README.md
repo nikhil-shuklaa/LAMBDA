@@ -2,7 +2,7 @@
 LAMBDA is a real-time attendance system that uses Technologies like, Face Detection, RFID, and Finger Print to track attendance in a database.. 
 
 
-## Author
+## Our Team
 
 - [Nikhil Shukla](https://github.com/nikhil-shuklaa)
 - [Mohit Maurya](https://github.com/Mohit138928)
